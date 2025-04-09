@@ -1,2 +1,11 @@
 # Practicas-11-20:
-[Texto que se mostrará](https://gist.github.com/DavidVargas20/9ed35dcd5f7b868d36f98cdacc1a7e47)
+[Practica11](https://gist.github.com/DavidVargas20/9ed35dcd5f7b868d36f98cdacc1a7e47)
+[Practica12](https://gist.github.com/DavidVargas20/afe64420b9d165ca9fd757780a768bec)
+[Practica13](https://gist.github.com/DavidVargas20/89ece6a79874e0995dba2fcf5843f677)
+[Practica14](https://gist.github.com/DavidVargas20/34f7356ce51ac976899b43ab4ca5503f)
+[Practica15](https://gist.github.com/DavidVargas20/b9c92714f9d2c499e01903b541bbec58)
+[Practica16](https://gist.github.com/DavidVargas20/4f9bf939a29a82dced953ce1984b3406)
+[Practica17](https://gist.github.com/DavidVargas20/6d050816efd7df01f93855c202eb2a51)
+[Practica18](https://gist.github.com/DavidVargas20/c58f866f65d071e1d51a476631d4dd4b)
+[Practica11](https://gist.github.com/DavidVargas20/9ed35dcd5f7b868d36f98cdacc1a7e47)
+[Practica11](https://gist.github.com/DavidVargas20/9ed35dcd5f7b868d36f98cdacc1a7e47)
