@@ -7,5 +7,5 @@
 [Practica16](https://gist.github.com/DavidVargas20/4f9bf939a29a82dced953ce1984b3406)
 [Practica17](https://gist.github.com/DavidVargas20/6d050816efd7df01f93855c202eb2a51)
 [Practica18](https://gist.github.com/DavidVargas20/c58f866f65d071e1d51a476631d4dd4b)
-[Practica11](https://gist.github.com/DavidVargas20/9ed35dcd5f7b868d36f98cdacc1a7e47)
-[Practica11](https://gist.github.com/DavidVargas20/9ed35dcd5f7b868d36f98cdacc1a7e47)
+[Practica19](https://gist.github.com/DavidVargas20/22891ea45f529c5fa94e7f74a5b68dd0)
+[Practica20](https://gist.github.com/DavidVargas20/e3b1faa21a0110c98a1944fe64ca1017)
